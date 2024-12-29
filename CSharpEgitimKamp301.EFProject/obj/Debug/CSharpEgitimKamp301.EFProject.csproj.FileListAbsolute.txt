@@ -1,0 +1,17 @@
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\bin\Debug\CSharpEgitimKamp301.EFProject.exe.config
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\bin\Debug\CSharpEgitimKamp301.EFProject.exe
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\bin\Debug\CSharpEgitimKamp301.EFProject.pdb
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\obj\Debug\CSharpEgitimKamp301.EFProject.csproj.AssemblyReference.cache
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\obj\Debug\CSharpEgitimKamp301.EFProject.Properties.Resources.resources
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\obj\Debug\CSharpEgitimKamp301.EFProject.csproj.GenerateResource.cache
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\obj\Debug\CSharpEgitimKamp301.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\obj\Debug\CSharpEg.41E39BCD.Up2Date
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\obj\Debug\CSharpEgitimKamp301.EFProject.exe
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\obj\Debug\CSharpEgitimKamp301.EFProject.pdb
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\obj\Debug\CSharpEgitimKamp301.EFProject.Form1.resources
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\obj\Debug\CSharpEgitimKamp301.EFProject.FrmLocation.resources
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKamp301.EFProject\obj\Debug\CSharpEgitimKamp301.EFProject.FormStatistics.resources

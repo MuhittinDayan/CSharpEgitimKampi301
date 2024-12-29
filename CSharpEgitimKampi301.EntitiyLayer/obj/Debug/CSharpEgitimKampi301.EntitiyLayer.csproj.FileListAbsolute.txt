@@ -10,3 +10,15 @@ C:\Users\mdaya\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntitiyLay
 C:\Users\mdaya\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntitiyLayer\bin\Debug\EntityFramework.xml
 C:\Users\mdaya\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntitiyLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\mdaya\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntitiyLayer\obj\Debug\CSharpEg.714622BC.Up2Date
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\bin\Debug\CSharpEgitimKampi301.EntitiyLayer.dll.config
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\bin\Debug\CSharpEgitimKampi301.EntitiyLayer.dll
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\bin\Debug\CSharpEgitimKampi301.EntitiyLayer.pdb
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\bin\Debug\EntityFramework.dll
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\bin\Debug\EntityFramework.xml
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\obj\Debug\CSharpEgitimKampi301.EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\obj\Debug\CSharpEgitimKampi301.EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\obj\Debug\CSharpEg.714622BC.Up2Date
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\obj\Debug\CSharpEgitimKampi301.EntitiyLayer.dll
+C:\Users\mdaya\source\repos\CSharpEgitimKamp301\CSharpEgitimKampi301.EntitiyLayer\obj\Debug\CSharpEgitimKampi301.EntitiyLayer.pdb

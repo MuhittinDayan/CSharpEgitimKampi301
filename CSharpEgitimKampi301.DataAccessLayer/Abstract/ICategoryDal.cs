@@ -9,5 +9,7 @@ namespace CSharpEgitimKampi301.DataAccessLayer.Abstract
 {
     public interface ICategoryDal : IGenericDal<Category>
     {
+        void Delete(Category entity);
+        void Delete(Customer entity);
     }
 }
